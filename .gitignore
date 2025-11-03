@@ -1,0 +1,8 @@
+# Maven build
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+*.iml
+.idea/
+.vscode/
